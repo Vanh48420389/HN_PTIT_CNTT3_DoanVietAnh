@@ -1,4 +1,3 @@
-DROP DATABASE IF EXISTS mini_project; 
 CREATE DATABASE mini_project;
 USE mini_project;
 
